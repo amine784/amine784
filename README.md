@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amine784&show_icons=true&theme=gotham" alt="amine" />
+### Quick overview of my day to day :art:
+
+[AMINE[s's github stats](https://github-readme-stats.vercel.app/api?username=amine784&show_icons=true)](https://github.com/amine784)
+
+### What I'm using
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amine784&layout=compact)](https://github.com/amine784)
