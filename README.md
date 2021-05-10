@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Quick overview of my day to day :art:
 
-[AMINE[s's github stats](https://github-readme-stats.vercel.app/api?username=amine784&show_icons=true)](https://github.com/amine784)
+[![Amines's github stats](https://github-readme-stats.vercel.app/api?username=amine784&show_icons=true)](https://github.com/amine784)
 
 ### What I'm using
 
