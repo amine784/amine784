@@ -12,7 +12,7 @@
 
 <br />
 <br />
-### Languages and Tools that I have been learning:
+### Languages and Tools that I have been learning:<br />
 <br />
 <a href="https://github.com//holbertonschool-higher_level_programming">
   <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -51,7 +51,7 @@
 </a>
 <a href="https://github.com/holberton-system_engineering-devops">
   <img align="left" alt="linux" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /> 
-</a> <br />
+</a> <br /><br />
 
 
 
