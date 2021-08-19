@@ -10,8 +10,8 @@
   <img align="left" alt="amine bouchahda" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-
-
+<br />
+<br />
 ### Languages and Tools that I have been learning:
 
 <a href="https://github.com//holbertonschool-low_level_programming">
@@ -59,7 +59,8 @@
 
 
 
-
+<br />
+<br />
 ### Quick overview of my day to day :art:
 
 [![Amines's github stats](https://github-readme-stats.vercel.app/api?username=amine784&show_icons=true)](https://github.com/amine784)
