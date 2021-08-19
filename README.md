@@ -12,7 +12,7 @@
 
 <br />
 <br />
-### Languages and Tools that I have been learning:<br />
+### Languages and Tools that I have been learning: <br />
 <br />
 <a href="https://github.com//holbertonschool-higher_level_programming">
   <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -57,7 +57,10 @@
 
 <br />
 <br />
-### Quick overview of my day to day :art: <br />
+### Quick overview of my day to day :art:
+
+<br />
+<br />
 
 [![Amines's github stats](https://github-readme-stats.vercel.app/api?username=amine784&show_icons=true)](https://github.com/amine784)
 
