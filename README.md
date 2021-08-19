@@ -10,8 +10,8 @@
   <img align="left" alt="amine bouchahda" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<br/>
-<br/>
+
+
 ### Languages and Tools that I have been learning:
 
 <a href="https://github.com//holbertonschool-low_level_programming">
