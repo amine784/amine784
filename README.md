@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-- 🌱Scientifically trained, with an engineering degree in electrical engineering, I want to give my career a new turn. Currently in professional retraining in IT, I am an intensive training in Web development and I find myself passionate about this field which is very evolving. Able to maintain long-term professional relationships with colleagues and superiors
+- 🌱With a scientific background, with an engineering degree in electrical engineering, I want to give my career a new turn. Currently in professional retraining in IT, I am an intensive training in software testing and I find myself passionate about this field which is very evolving. Able to maintain long-term professional relationships with colleagues and superiors
 - 📝 [Here is my Curriculum Vitae](/Software_Engineer_amine_bouchahda.pdf)
 
 ### Connect with me:
